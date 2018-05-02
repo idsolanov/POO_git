@@ -41,9 +41,13 @@ public class Main {
         LinkedList<Struct> list = (LinkedList<Struct>)listGenerator(50);
         LinkedList<Base> based = new LinkedList<>();
         TreeSet<Long> visited = new TreeSet<>();
-        //create and insert your object
+        
+        //create and insert your object - example
         Example example = new Example();
         based.add(example);
+        
+        // here you create and add your instance of class
+        
         
         
         //do not touch

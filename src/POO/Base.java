@@ -9,7 +9,7 @@ import java.util.List;
 
 /**
  *
- * @author fffeelipe
+ * @author fffeelipe    
  */
 interface Base {
     final long MINUS_INF = Long.MIN_VALUE;
