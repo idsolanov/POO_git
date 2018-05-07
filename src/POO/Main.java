@@ -45,6 +45,10 @@ public class Main {
         //create and insert your object - example
         Example example = new Example();
         based.add(example);
+                
+        Practice p=new Practice();
+        based.add(p);
+        
         
         // here you create and add your instance of class
         
