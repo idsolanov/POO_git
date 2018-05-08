@@ -49,7 +49,8 @@ public class Main {
         Practice p=new Practice();
         based.add(p);
         
-        
+        AndresArdila a =new AndresArdila();
+        based.add(a);
         // here you create and add your instance of class
         
         
