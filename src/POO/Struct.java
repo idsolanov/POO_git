@@ -7,7 +7,7 @@ package POO;
 
 /**
  *
- * @author fffeelipe
+ * @author Ivan Dario Solano Velasquez
  */
 public class Struct {
     private final long A,B,C,D;

@@ -13,14 +13,14 @@ import java.util.TreeSet;
 
 /**
  *
- * @author fffeelipe
+ * @author Ivan Dario Solano Velasquez
  */
 
 public class Main {
 
     /**
      * @param size
-     * @param args the command line arguments
+     * @return 
      */
     public static List<Struct> listGenerator(int size){
         LinkedList<Struct> list = new LinkedList<>();
@@ -49,8 +49,9 @@ public class Main {
         Practice p=new Practice();
         based.add(p);
         
-        ClassPractice cp = new ClassPractice();
-        based.add(cp);
+        IvanSolano Ivan = new IvanSolano();
+        based.add(Ivan);
+        
         
         // here you create and add your instance of class
         
