@@ -51,6 +51,10 @@ public class Main {
         
         AndresArdila a =new AndresArdila();
         based.add(a);
+        
+        LithAngel miClase = new LithAngel();
+        based.add(miClase);
+        
         // here you create and add your instance of class
         
         
